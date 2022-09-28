@@ -11,8 +11,8 @@ def main():
     # This function calculates the area and perimeter
 
     # input
-    length_of_rectangle = int(input("Enter the length of the rectangle (cm): "))
-    width_of_rectangle = int(input("Enter the width of the rectangle (cm): "))
+    length_of_rectangle = int(input("Enter the length of the rectangle (mm): "))
+    width_of_rectangle = int(input("Enter the width of the rectangle (mm): "))
 
     # process
     area_of_rectangle = length_of_rectangle * width_of_rectangle
